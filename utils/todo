@@ -1,0 +1,16 @@
+1. use bimg for golang from github
+2. in config file must say how log are unic names must be
+    2.1 for dirs
+    2.2 for files
+3. decide how files will be saved, what is algorithm one dir 100 dirs?
+ how big one dir will get?
+ how many files must it hold?
+ random files or filter it by some parametr?
+4. where to save all images for now it's /opt/images
+    4.1 specify name in config?
+    4.2 choose unic name?
+5. where to save config for app?
+6. amin pages for app.
+7. how golang handles sessions?\
+    7.1 cookies?
+8. CORS
